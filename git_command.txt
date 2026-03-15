@@ -1,0 +1,9 @@
+git init
+git add <file name>
+git add .
+rm <filename>
+git commit -m "comment"
+git restore --cached <filename>
+git status
+ls
+history
