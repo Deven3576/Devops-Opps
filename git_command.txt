@@ -7,3 +7,7 @@ git restore --cached <filename>
 git status
 ls
 history
+
+
+
+This is some changes
